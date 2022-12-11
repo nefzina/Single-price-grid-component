@@ -37,4 +37,4 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@nefzina](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@nefzina](https://github.com/nefzina)
