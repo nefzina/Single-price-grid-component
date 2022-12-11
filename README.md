@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/nefzina/Single-price-grid-component
+- Solution URL: https://github.com/nefzina/Single-price-grid-component.git
 - Live Site URL: https://nefzina.github.io/Single-price-grid-component/
 
 ## My process
